@@ -1,0 +1,47 @@
+h1 {
+    color: blueviolet;
+
+}
+body {
+    background-color: rgb(253, 253, 253);
+}
+
+nav {
+    float: left;
+    width: 200px;
+    height: 6000px; 
+    background: #ccc;
+    padding: 5px;
+    line-height: 30px;
+  }
+
+  header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(204, 0, 255);
+    margin-right: 200px;
+  }
+
+  footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin-right: 200px;
+    color: blueviolet;
+  }
+
+  img.projektMainImg {
+    margin: 0 auto;
+    max-width: 600px;
+    max-height: 400px;
+    display: block;
+    }
+
+    #My {
+margin-right: 200px;
+
+    }
+    
